@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Vyshali
 
-<!--
-**pvyshali66/pvyshali66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Passionate about transforming raw data into meaningful business insights using SQL, Python, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- SQL Server
+- Python
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+## 📊 Projects
+
+###  Sales Insights Dashboard 
+- Data Cleaning of using excel
+- SQL Queries
+- Dashboard Creation using power bi
+- Business Insights
+
+### Customer Analysis
+- Customer Segmentation
+- Purchase Trends
+- KPI Reporting
+
+### Product Performance Dashboard
+- Top Selling Products
+- Profit Analysis
+- Inventory Analysis
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI DAX
+- Machine Learning
+- AI for Data Analytics
+
+---
+
+## 🎯 Career Goal
+
+Seeking opportunities as a Data Analyst where I can solve business problems using data.
+
+---
+
+## 📫 Contact
+
+Email: pvyshali66@Gmail.com
+
+LinkedIn:
+https://linkedin.com/in/your-profile
