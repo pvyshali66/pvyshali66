@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyshali Sri Satya</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL | Python | Power BI | Excel | AI for Data Analytics
+Aspiring Data Analyst | SQL  | Power BI | Excel | AI for Data Analytics
 </h3>
 
 <p align="center">
@@ -84,19 +84,19 @@ SQL Server | Excel | Power BI
 
 ---
 
-### 📊 Product Performance Analysis
+### 📊 Engineering Productivity Metrics Dashboard
 
 Analyze:
 
-- Best Selling Products
-- Slow Moving Products
-- Monthly Sales
-- Customer Trends
-- Revenue Analysis
+- Monitor engineering productivity trends.
+- Measure delivery predictability across teams.
+- Track defect density and quality metrics.
+- Compare project performance using standardized KPIs.
+- Enable proactive decision-making through interactive analytics.
 
 **Technologies**
 
-Python | Pandas | SQL | Power BI
+ | Excel | Power BI
 
 ---
 
