@@ -54,7 +54,7 @@ To become a Data Analyst who helps organizations make data-driven decisions thro
 
 ## 📂 Featured Projects
 
-### 🛒 Retail Sales Analysis
+### 🛒 Sales-Data-Analysis-MIS-Dashboard
 
 ✔ Data Cleaning
 
