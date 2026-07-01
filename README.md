@@ -68,7 +68,8 @@ To become a Data Analyst who helps organizations make data-driven decisions thro
 
 SQL Server | Excel | Power BI
 
----
+ 🔗 Project Link: https://github.com/pvyshali66/Sales-Data-Analysis-MIS-Dashboard
+ ---
 
 ### 📊 Engineering Productivity Metrics Dashboard
 
@@ -83,7 +84,8 @@ Analyze:
 **Technologies**
 
  | Excel | Power BI
-
+ 
+ 🔗 Project Link: 
 ---
 
 ### 📈 Power BI Business Dashboard
