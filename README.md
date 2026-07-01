@@ -16,16 +16,10 @@ Turning raw data into meaningful business insights through analytics and visuali
 
 📊 Aspiring Data Analyst passionate about solving business problems using data.
 
-💡 Skilled in SQL, Python, Power BI, Excel, and Data Cleaning.
+💡 Skilled in SQL,Power BI, Excel,  basic Python, and Data Cleaning.
 
 📈 Interested in Business Intelligence, Data Visualization, Data Analytics, and AI-powered Analytics.
 
-🌱 Currently learning
-- Advanced SQL
-- Python for Data Analysis
-- Power BI Dashboard Development
-- Pandas & NumPy
-- AI Tools for Data Analysts
 
 🎯 Career Goal
 
@@ -37,8 +31,8 @@ To become a Data Analyst who helps organizations make data-driven decisions thro
 
 ### Programming
 
-- Python
 - SQL
+- Basic Python
 
 ### Data Analytics
 
@@ -54,15 +48,7 @@ To become a Data Analyst who helps organizations make data-driven decisions thro
 - Power BI
 - Microsoft Excel
 - Jupyter Notebook
-- VS Code
-- Git
-- GitHub
-
-### Python Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
+-  GitHub
 
 ---
 
@@ -115,10 +101,8 @@ Interactive dashboard containing:
 ## 📚 Currently Learning
 
 - Advanced SQL Queries
-- Window Functions
-- Stored Procedures
-- Python Projects
-- Machine Learning Basics
+- Python for Data Analysis
+- Pandas & NumPy
 - AI for Data Analytics
 - Git & GitHub Best Practices
 
